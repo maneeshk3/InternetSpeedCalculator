@@ -13,8 +13,8 @@ body{
   .card{
     border-radius: 80%;
     background-color:aqua  ;
-    width:400px;
-    height: 400px;
+    width:40vmin;
+    height: 40vmin;
     padding:20px;
     position: fixed;
       top:  50%;
@@ -23,17 +23,18 @@ body{
       box-shadow: 0 3px 10px rgb(0 0 0);
   }
   .result {
-    font-size: 250%;
-        font-family: fantasy;
+    font-size: 4vmin;
+        font-family: Georgia, 'Times New Roman', Times, serif;
       text-align: center;
+
+      font-weight: bold;
       color: #221f1f;
   }
   .message{
-    border-radius: 50%;
+      margin: 6vmin;
       text-align: center;
       font-weight: bold;
-      font-size: xx-large;
+      font-size: 4vmin;
       color: #221f1f;
-      padding: 20px;
-      margin: 60px;
+
   }
