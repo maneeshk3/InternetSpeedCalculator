@@ -4,6 +4,7 @@ h1{
     margin: 20px;
     background-color: whitesmoke;
     color: blue;
+    border-radius:10px;
 }
 body{
     background-image: url('fullsize.jpeg');
